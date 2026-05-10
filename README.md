@@ -45,15 +45,6 @@ After the full interview, the AI produces a complete review document with the th
 
 **Tip:** If you use Claude Projects, paste the System Instructions into the Project's Custom Instructions for automatic application in every new conversation.
 
-## Example Output
-
-See the [`examples/`](examples/) directory for a full example of a review document produced using this template:
-
-- [`examples/en.md`](examples/en.md) — English example
-- [`examples/zh-CN.md`](examples/zh-CN.md) — Chinese example
-
-The example covers a university student's AI-era journey from indifference to AI to simultaneously participating in two AI projects, including hackathon wins, internship experiences, and startup involvement.
-
 ## File Structure
 
 ```
